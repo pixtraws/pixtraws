@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- My name is Pietro aka Pixt
+- 🌱 I’m currently learning python
 <!--
 **pixtraws/pixtraws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
